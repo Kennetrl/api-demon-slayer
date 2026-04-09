@@ -4,7 +4,7 @@ This project is a simple web application that consumes the [Demon Slayer API](ht
 
 ## 🚀 Features
 
-1. **Simulated Authentication (Login)**: 
+1. **Simulated Authentication (Login)**:
    - The initial page (`index.html`) requires logging in to access the system.
    - **Username**: `admin`
    - **Password**: `1234`
@@ -30,6 +30,3 @@ This project is a simple web application that consumes the [Demon Slayer API](ht
 2. Open the `index.html` file directly in your web browser.
 3. Log in with the credentials: **admin** / **1234**.
 4. Explore all the Demon Slayer characters!
-
----
-*Developed for the Web Programming course.*
